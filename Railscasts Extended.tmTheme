@@ -99,6 +99,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Embedded source</string>
+			<key>scope</key>
+			<string>text source, string.unquoted</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#373737</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Constant: Built-in</string>
 			<key>scope</key>
 			<string>constant.language</string>
